@@ -1,0 +1,105 @@
+body {
+	BACKGROUND-COLOR:  lightgrey;
+	color:  darkblue;
+	font-family:  courier;
+	text-align: center;
+}
+style.css
+
+h1 {
+    color:  lightgrey;
+	font-family: initial; 
+	font-weight:  120;
+	letter-spacing: 7px;
+	font-size:  50px;
+	text-transfer:  uppercase;
+}
+
+
+
+h2 {
+    color:  lightgrey;
+	font-family: initial;
+	font-weight:  90;
+	letter-spacing: 7px;
+	font-size:  50px;
+	text-transfer:  uppercase;
+}
+
+a {
+	text-decoration:  none;
+	color: yellow;
+}
+a:hover {
+  color: yellow;
+}
+
+div {
+	background : white;
+	border-radius:  40px;
+	margin:  10px;
+	padding:  10px;
+}
+
+.img-circle{
+	border-radius:  50%;
+}
+
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+   }
+
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+
+  } 
+.img-circle{
+	border-radius:  50%;
+ v  }
+}
+
+.shahowed {
+	box-shadow: 10px 10px 6px rgba( 122, 122, 122, 1);
+}
+
+.button-purple:hover {background-color:red;}
+
+
+.container {
+width:  600px;
+margin:  auto 30px;
+}
+
+
+
+.btn-blue {
+	background:  mediumaquamarine;
+	padding:  5px 10px;
+	border-radius:  10px;
+}
+
+.list-inline {
+	list-inline:  none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display:  inline;
+	padding:  10px;
+}
+
+ /* Custom design with class */
